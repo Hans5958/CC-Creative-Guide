@@ -13,35 +13,49 @@ A plugin to edit your world easily. You have known this already. See [WorldEdit]
 4. Votifier  
 A plugin to listen to votes, so you can get a reward for voting.
 
-5. Vault  
-An API for easy hooks for plugins. A dependency of NewItems
+5. NewItems*  
+This is a paid plugin. It adds new custom items to the game, like lightsabers, guitars, clocks, etc. The mod also adds corpses for killed people.
 
-6. ProtocolLib  
-Library to enables read and write access to Minecraft protocol. A dependency of NewItems.
-
-7. Vehicles  
+6. Vehicles*  
 This is a paid plugin. As you except, it adds vehicles, like cars, bikes, submarines, tanks, planes, helicopter, and even a broom.
 
-8. CreativeItemControl  
+7. CreativeItemControl  
 A plugin for blocking spawning specific items and items with NBT data.
 
-9. Simple Elevators  
+8. Simple Elevators  
 A plugin for elevators. One example is on the /spawn, where you can stand on the end stone and either jump to go up a floor or shift to go down a floor.
 
-10. Lib's Disguise  
+9. Lib's Disguise  
 This is a paid plugin, or at least the latest version. It's purpose is for mob disguise. You can be a mob with the command /disguise.
 
-11. Armor Stand Tools  
+10. Armor Stand Tools  
 A plugin to create a custom armor stand. Type "/astools" to use it.
 
-12. Board Games  
+11. Board Games  
 This is a paid plugin. A plugin for mini games.
 
-13. RandomPackages  
-This is a paid plugin. The solely purpose is variety, but the only thing that's allowed is /enchanter and /tinkerer.
+12. Pocket Games*  
+This is a paid plugin. A plugin also for mini games.
+
+13. AdvancedEnchantments*  
+This is a paid plugin. A plugin for custom enchantments.
 
 14. Citizens  
 A plugin for creating NPCs.
 
 15. SimplePrefix  
 A plugin for prefixes.
+
+16. StatueCreator  
+A plugin for creating player statues. (/statue)
+
+17. CoinToss  
+A plugin for the coin flip/coin toss challenge. (/cointoss)
+
+18. Vault  
+An API for easy hooks for plugins. A dependency plugin.
+
+19. ProtocolLib  
+Library to enables read and write access to Minecraft protocol. A dependency plugin.
+
+``*`` Legacy plugin. The plugins stopped working due to the 1.13 update or removed completely.

@@ -1,4 +1,19 @@
-# Changelog
+# Change Log
+
+### Changes in 25 December 2018
+
+- Updated *Things - Voting* for new voting siste. (@limejuce)
+- Minor fixes on the *Change Log*.
+- Updated *Things - Reboot* for new time.
+- Added 2 new plugins and re-added removed plugins. (*Things - Plugins*)
+- Created a footnote for removed plugins. (*Things - Plugins*)
+- Removed unused plugin commands. (*Commands - Basics*)
+- Replaced RandomPackage to AdvancedEnchantments. (*Things - Plugins*)
+- Added notice of colored signs (*Things - Format*)
+- Seperated kind-of useless commands from the main table. (*Commands - Basics*)
+- Minor edits and added image on *Things - WorldEdit*.
+
+---
 
 ### Changes in 27 September 2018
 
@@ -6,10 +21,14 @@
 - Added information for "/nick" on sale.
 - Minor fixes on *Things - Donator* for clarification.
 
+---
+
 ### Changes in 22 August 2018
 
 - Removed NewItems plugin due to update.
 - Revamped change log for simplicity.
+
+---
 
 ### Changes in 4 August 2018
 - Added new page, *Things - Voting*

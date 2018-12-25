@@ -7,7 +7,7 @@ Thanks to:
   - [ReadTheDocs](https://readthedocs.org/) (theme)
   - [Minecraft](minecraft.net) (game)
   - [Cosmic Craft](cosmicmc.com) (server)  
-  - [Grammarly](grammarly.com) (spell-check)
+  - [Grammarly](grammarly.com) (spell-check/proofreading)
   - https://github.com/idleberg/Creative-Commons-Markdown
   - https://opensource.org/licenses/MIT
 
@@ -19,6 +19,7 @@ References/Sources:
   - https://github.com/EssentialsX/Essentials
   - https://github.com/IntellectualSites/PlotSquared/
   - https://www.spigotmc.org/resources/creativeitemcontrol.9471/
+  - https://www.spigotmc.org/resources/newitems-create-items-with-custom-textures-models-without-mods.22783/
   - https://dev.bukkit.org/projects/vault
   - https://www.spigotmc.org/resources/protocollib.1997/
   - https://www.spigotmc.org/resources/%E2%9C%88%EF%B8%8Fvehicles-no-resourcepacks-needed.12446/
@@ -30,9 +31,12 @@ References/Sources:
   - https://www.spigotmc.org/resources/pocket-games-1-8-1-12-2-32-premium-minigames-multiplayer-single-player.48676/
   - https://www.spigotmc.org/resources/randompackage.38501/
   - https://dev.bukkit.org/projects/citizens
+  - https://www.spigotmc.org/resources/coin-toss.16580/
+  - https://www.spigotmc.org/resources/statuecreator.21764/
 ```
 Image Sources:
 ```
   - https://minecraft.gamepedia.com/File:Minecraft_Formatting.gif
   - https://minecraft.gamepedia.com/File:Music_Discs.gif
+  - http://wiki.sk89q.com/wiki/File:WorldEdit_Logo_New.png
 ```

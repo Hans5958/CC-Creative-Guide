@@ -1,6 +1,8 @@
 <h2>III.8. WorldEdit</h2>
 
-WorldEdit, the builders best friend. Whenever you either lazy or you need to put high amount of blocks, you use it.
+<img src="/img/WorldEdit_Logo_New.png" align="right" alt="The WorldEdit Logo." style="display:inline-block">
+
+WorldEdit, the builders best friend. Whenever you either lazy or hate to put thousands of blocks, this tool is perfect.
 
 So, WorldEdit is a world manipulation tool that you could use to build something easier. It's a popular plugin that everybody uses. Most of the creative servers has this plugin, including CosmicMC. Some of them needs the players to vote for a duration of WorldEdit abilities, others needs to pay to use it. It's a must-have plugin, I swear.
 
