@@ -6,6 +6,8 @@
 
 Welcome to the Cosmic Craft's Creative Guide, created by Hans5958. This guide is written to make your experience on the server better. You can select your preferred section on the contents below or the sidebar on the right.
 
+Please note that **this will not be updated anymore** due to the closure of the server. However, this guide will be kept online here for archival purposes.
+
 ## Contents
 
 0. [Preface](preface)

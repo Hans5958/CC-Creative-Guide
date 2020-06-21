@@ -4,7 +4,9 @@
 >
 > Last updated: 25/12/2018
 
-Welcome to the Cosmic Craft's Creative Guide, created by Hans5958. This guide is written to make your experience on the server better. You can read it on https://hans5958.github.io/cc-creative-guide.
+Welcome to the Cosmic Craft's Creative Guide, created by Hans5958. This guide is written to make your experience on the server better. You can read it on https://hans5958.github.io/CC-Creative-Guide.
+
+Please note that **this will not be updated anymore** due to the closure of the server. However, this guide will be kept online here for archival purposes.
 
 ## Credits
 
